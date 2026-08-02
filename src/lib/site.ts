@@ -5,7 +5,7 @@
  */
 
 // Número no formato internacional, sem espaços ou símbolos.
-export const WHATSAPP_NUMBER = "557198443264"; // TODO: substituir pelo número real
+export const WHATSAPP_NUMBER = "5571984432642"; // TODO: substituir pelo número real
 
 export const WHATSAPP_MESSAGE =
   "Olá! Vim pelo site da Tiago Pizzas e gostaria de conhecer o cardápio e fazer um pedido. 🍕";

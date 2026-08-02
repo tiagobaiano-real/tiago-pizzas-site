@@ -8,12 +8,12 @@
     "allowArbitraryExtensions": true,
     "skipLibCheck": true,
 
-    "baseUrl": ".",
+    
     "paths": {
       "@/*": ["./src/*"]
     },
 
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
